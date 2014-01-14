@@ -1,3 +1,7 @@
+2013-01-14  Leonardo J. Caballero G. (leonardocaballero at gmail dot com)
+
+    Add "book_icon.gif" and "folder_icon.gif" files because were removed in Plone 4.x, and now the Product should be distribute inside him.
+
 2010-10-11  Max Burgess (netropic at u dot washington dot edu)
 
     Removed test for unsupported Relations action tab.
